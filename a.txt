@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 local
 serve
 <<<<<<< HEAD
@@ -5,4 +6,7 @@ cehkkk
 =======
 kkk122345678
 >>>>>>> test
+NamTran
+
+
 ptNhuan123
